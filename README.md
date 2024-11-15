@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yunico
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on gamedev
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me no
 - 😄 Pronouns: im a peerson.
 - ⚡ Fun fact: i barely get any sleep..
