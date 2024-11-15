@@ -5,6 +5,7 @@
 - 📫 How to reach me no
 - 😄 Pronouns: im a peerson.
 - ⚡ Fun fact: i barely get any sleep..
+- this school acc
 
 <!---
 Yunico1/Yunico1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
