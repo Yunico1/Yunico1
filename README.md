@@ -1,3 +1,6 @@
+# # Hello Geeks
+
+
 - 👋 Hi, I’m Yunico
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,7 +8,7 @@
 - 📫 How to reach me no
 - 😄 Pronouns: im a peerson.
 - ⚡ Fun fact: i barely get any sleep..
-- 🏫 this school acc
+- 🏫 this account is purely for school purpose
 
 <!---
 Yunico1/Yunico1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
