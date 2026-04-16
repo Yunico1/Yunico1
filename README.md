@@ -1,13 +1,8 @@
 # Hello Geeks
 
-
 - 👋 Hi, I’m Yunico
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me no
-- 😄 Pronouns: im a peerson.
-- ⚡ Fun fact: i barely get any sleep..
+- 🌱 I’m currently learning Git and Github
 - 🏫 this account is purely for school purpose
 
 <!---
