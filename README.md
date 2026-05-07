@@ -7,6 +7,8 @@
 
 My Portfolio
 --> https://ys-portfolio.page.gd
+Alternative link:
+--> https://lucent-zuccutto-a70455.netlify.app/
 <!---
 Yunico1/Yunico1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
