@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning Git and Github
 - 🏫 this account is purely for school purpose
 
+### Note:
+
+**The alternate link is always updated first! some of the images are outdated!**
+
 My Portfolio
 --> https://ys-portfolio.page.gd
 
